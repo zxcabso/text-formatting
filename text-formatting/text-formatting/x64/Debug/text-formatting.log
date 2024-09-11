@@ -1,0 +1,7 @@
+﻿  Animated.cpp
+C:\Users\AMD Pro\source\repos\text-formatting\Animated.cpp(41,30): warning C4552: '%': result of expression not used
+C:\Users\AMD Pro\source\repos\text-formatting\Animated.cpp(55,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AMD Pro\source\repos\text-formatting\Animated.cpp(67,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  text-formatting.cpp
+  Generating Code...
+  text-formatting.vcxproj -> C:\Users\AMD Pro\source\repos\text-formatting\x64\Debug\text-formatting.exe
